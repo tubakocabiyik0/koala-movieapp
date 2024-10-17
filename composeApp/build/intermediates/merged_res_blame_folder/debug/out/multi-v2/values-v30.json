@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.example.koala.composeApp-mergeDebugResources-57:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/tubakocabiyik/.gradle/caches/transforms-4/7ae9bfb13cdb3a2ff799fe63a1d5f5af/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

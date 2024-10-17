@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4af91fde05683c152b3f5d8451a8225fbef3b9d55ddbed65b93d05671690f360"
+build_start_time: [1727861179, 268896000]
+build_end_time: [1727861179, 418852000]
+inputs:
+  "/Users/tubakocabiyik/Downloads/Koala/iosApp/iosApp/ContentView.swift": !private [1726933342, 0]
+  "/Users/tubakocabiyik/Downloads/Koala/iosApp/iosApp/iOSApp.swift": !private [1726933342, 0]
